@@ -1,0 +1,57 @@
+
+
+# site icon
+favicon: /favicon.png
+
+# author headimg
+headimg: /header.jpeg
+# author info
+name: Mingor
+description: Stay Hungry,Stay Foolish.
+
+# search
+search: 
+    enable: false
+    placeholder: Enter Key...
+
+# sidebar
+sidebar: 
+  enable: false
+  menus:
+    -
+      name: github
+      link: https://github.com/Mingor
+      target: _blank
+
+# count(统计)
+count:
+  enable: false
+
+# comments
+comments:
+  duoshuo_username:  justpsvm
+  #disqus_username: justpsvm
+
+# accounts support weibo/github/zhihu/twitter/douban 
+# display to former three
+social: 
+#  -
+#    name: weibo
+#    link: http://weibo.com/
+  -
+    name: github
+    link: https://github.com/Mingor
+#  -
+#    name: zhihu
+#    link: https://www.zhihu.com/
+#  -
+#    name: twitter
+#    link: 
+#  -
+#    name: douban
+#    link: 
+
+
+
+
+
