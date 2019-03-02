@@ -77,6 +77,7 @@ theme: varaint
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+#git@github.com:Mingor/Mingor.github.io.git
 deploy:
   type: git
   repo: git@github.com:Mingor/Mingor.github.io.git
